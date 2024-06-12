@@ -7,7 +7,6 @@
         "principal": 1000.0,
         "rate": 5.0,
         "time": 2,
-        "interest": 100.0
       }
 
 
